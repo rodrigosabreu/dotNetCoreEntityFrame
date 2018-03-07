@@ -1,0 +1,10 @@
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\bin\Debug\netcoreapp2.0\entityFramework.deps.json
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\bin\Debug\netcoreapp2.0\entityFramework.runtimeconfig.json
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\bin\Debug\netcoreapp2.0\entityFramework.runtimeconfig.dev.json
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\bin\Debug\netcoreapp2.0\entityFramework.dll
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\bin\Debug\netcoreapp2.0\entityFramework.pdb
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\obj\Debug\netcoreapp2.0\entityFramework.csproj.CoreCompileInputs.cache
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\obj\Debug\netcoreapp2.0\entityFramework.AssemblyInfoInputs.cache
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\obj\Debug\netcoreapp2.0\entityFramework.AssemblyInfo.cs
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\obj\Debug\netcoreapp2.0\entityFramework.dll
+C:\EstudosDotNetCore\dotNetCoreEntityFramework\obj\Debug\netcoreapp2.0\entityFramework.pdb
